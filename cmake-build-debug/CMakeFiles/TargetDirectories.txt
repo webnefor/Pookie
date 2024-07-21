@@ -1,0 +1,3 @@
+/Users/lucas/Documents/Pookie/cmake-build-debug/CMakeFiles/Pookie.dir
+/Users/lucas/Documents/Pookie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lucas/Documents/Pookie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
