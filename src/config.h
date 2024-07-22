@@ -14,16 +14,7 @@
 #define HASH 0xc2394482
 
 
-typedef struct data_args {
 
-    unsigned char * mode;
-    unsigned char * salt;
-    unsigned char * key;
-    unsigned char * file_path;
-    int help;
-
-} t_data;
-
-extern int file_handler(char *path_to);
+extern int file_handler(t_data * m_data, __data * b_data);
 extern t_data *parse_args(int argc, char *argv[]);
 extern void show_help();
